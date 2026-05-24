@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Andrés 👋
 
-<!--
-**Andreus121/Andreus121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería Civil Informática en la USACH.
+Aprendiendo desarrollo de plugins para Minecraft con Paper y aprendiendo distintas areas de informatica y lenguajes (principalmente me gusta backend)
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java — desarrollo de plugins para Paper
+- C++ — desarrollo de aplicaciones (actualmente por terminal)
+- Python — utilizado en estudios
+
+## Proyectos
+
+- [HelloPlugin](https://github.com/Andreus121/HelloPlugin) — Plugin de Paper con comandos, eventos y config personalizable
+- [MiColorBlockJam](https://github.com/Andreus121/MiColorBlockJam) — **(EN PROCESO)** Réplica del juego ColorBlockJam para terminal en C++
+
+## Estudios
+
+- otro día agrego esto
