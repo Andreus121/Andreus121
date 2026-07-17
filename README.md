@@ -12,8 +12,8 @@ Aprendiendo desarrollo de plugins para Minecraft con Paper y aprendiendo distint
 ## Proyectos (Finalizados)
 
 - [HelloPlugin](https://github.com/Andreus121/HelloPlugin) — Plugin de Paper, permite saludar a todo el sv y a un jugador especifico, además de dar la bienvenida al sv
+- [Announcer](https://github.com/Andreus121/Announcer) — Plugin de Paper, muestra mensajes a todos los jugadores por el chat, ideal para hacer spam de alguna red social del sv o indicar reglas/eventos
 
 ## Proyectos (En proceso)
 
 - [MiColorBlockJam](https://github.com/Andreus121/MiColorBlockJam) — Réplica del juego ColorBlockJam para terminal en C++
-- [Announcer](https://github.com/Andreus121/Announcer) — Plugin de Paper, muestra mensajes a todos los jugadores por el chat, todo configurable
