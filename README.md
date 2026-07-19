@@ -16,4 +16,5 @@ Aprendiendo desarrollo de plugins para Minecraft con Paper y aprendiendo distint
 
 ## Proyectos (En proceso)
 
+- [TpDeath](https://github.com/Andreus121/TpDeath) - Plugin de Paper, teletransporta al jugador a la ubicación de su última muerte
 - [MiColorBlockJam](https://github.com/Andreus121/MiColorBlockJam) — Réplica del juego ColorBlockJam para terminal en C++
